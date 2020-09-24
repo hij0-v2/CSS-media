@@ -1,0 +1,73 @@
+body, html {
+    height: 100%;
+}
+
+@media screen and (max-device-width: 480px) {
+
+    .bigcont {
+        display: grid;
+        margin: 10px;
+        grid-template-rows: repeat(3, 70%);
+        grid-gap: 20px;
+        grid-template-areas:
+                "chicken"
+                "beef"
+                "sushi";
+    }
+
+
+}
+
+header {
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Permanent Marker', cursive;
+}
+/*-----------------------------------------*/
+.chicken {
+    grid-area: chicken;
+    background-color: gray;
+}
+
+.text {
+    margin: 7px;
+}
+
+.top {
+    padding: 5px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: lightcoral;
+}
+/*-----------------------------------------*/
+.beef {
+    grid-area: beef;
+    background-color: gray;
+}
+
+.text1 {
+    margin: 7px;
+}
+
+.top1 {
+    padding: 5px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: darkred;
+}
+/*-----------------------------------------*/
+.sushi {
+    grid-area: sushi;
+    background-color: gray;
+}
+
+.text2 {
+    margin: 7px;
+}
+
+.top2 {
+    padding: 5px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: violet;
+}
