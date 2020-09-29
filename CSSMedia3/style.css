@@ -1,0 +1,37 @@
+body {
+    margin: 10px;
+    background-color: lightblue;
+}
+
+.container {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 30% 30%;
+
+}
+/*------------Input boxes----------------*/
+input[type=text] {
+    width: 30%;
+    -webkit-transition: 0.5s;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid gray;
+    background: transparent;
+}
+
+input[type=text]:focus {
+    border: none;
+    border-bottom: 2px solid black;
+
+}
+
+/*------------FnameLnameEmail---------------*/
+.fname {
+
+}
+.lname {
+
+}
+.email {
+
+}
+/*-------------------------------------------*/

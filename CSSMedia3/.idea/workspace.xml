@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a58101a-ab5a-4687-b6b8-d12b462938f5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    <list default="true" id="81f2179f-2c0d-46a2-976c-bd31139800a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CSSMedia2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSSMedia2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSSMedia2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CSSMedia2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSSMedia2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CSSMedia2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1hwrsg2KBhQhkRDBUwmyuzT7Kjw" />
+  <component name="ProjectId" id="1iAyvV1kD1ySOix1BtAcDn1wE9q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,20 +53,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSSMedia3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6a58101a-ab5a-4687-b6b8-d12b462938f5" name="Default Changelist" comment="" />
-      <created>1600933203467</created>
+      <changelist id="81f2179f-2c0d-46a2-976c-bd31139800a6" name="Default Changelist" comment="" />
+      <created>1601364921243</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600933203467</updated>
-      <workItem from="1600933204545" duration="3524000" />
-      <workItem from="1601359764632" duration="5724000" />
+      <updated>1601364921243</updated>
+      <workItem from="1601364922308" duration="2082000" />
     </task>
     <servers />
   </component>
@@ -83,15 +82,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1601364916104">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601364916104" />
-    <state x="1131" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601359979180">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1131" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601359979180" />
   </component>
 </project>

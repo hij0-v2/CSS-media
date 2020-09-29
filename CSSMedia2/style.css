@@ -1,32 +1,58 @@
-body, html {
-    height: 100%;
-}
-
-@media screen and (max-device-width: 480px) {
+@media (max-width: 480px) {
 
     .bigcont {
         display: grid;
         margin: 10px;
-        grid-template-rows: repeat(3, 70%);
+        grid-template-rows: repeat(3, 45%);
         grid-gap: 20px;
         grid-template-areas:
                 "chicken"
                 "beef"
                 "sushi";
     }
-
-
 }
+/*-----------------------------------------*/
+@media (min-width: 481px) and (max-width: 1200px) {
 
+    .bigcont {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 100% 100%;
+        grid-template-areas:
+            "chicken beef"
+            "sushi sushi";
+    }
+}
+/*-----------------------------------------*/
+@media (min-width: 1201px) {
+    .bigcont {
+        display: flex;
+        flex-direction: row;
+    }
+    .chicken {
+        width: 33%;
+    }
+    .beef {
+        width: 33%;
+    }
+    .sushi {
+        width: 33%;
+    }
+}
+/*-----------------------------------------*/
 header {
     text-align: center;
     font-size: 150%;
     font-family: 'Permanent Marker', cursive;
 }
+
 /*-----------------------------------------*/
 .chicken {
     grid-area: chicken;
     background-color: gray;
+    margin: 10px;
+    border: 3px solid black;
 }
 
 .text {
@@ -35,14 +61,21 @@ header {
 
 .top {
     padding: 5px;
-    display: flex;
-    justify-content: flex-end;
+    width: 20%;
+    text-align: center;
+    float: right;
     background-color: lightcoral;
+    border:3px solid black;
+    margin-top: -3px;
+    margin-right: -3px;
 }
+
 /*-----------------------------------------*/
 .beef {
     grid-area: beef;
     background-color: gray;
+    margin: 10px;
+    border:3px solid black;
 }
 
 .text1 {
@@ -51,14 +84,22 @@ header {
 
 .top1 {
     padding: 5px;
-    display: flex;
-    justify-content: flex-end;
+    width: 20%;
+    text-align: center;
+    float: right;
+    color: white;
     background-color: darkred;
+    border:3px solid black;
+    margin-top: -3px;
+    margin-right: -3px;
 }
+
 /*-----------------------------------------*/
 .sushi {
     grid-area: sushi;
     background-color: gray;
+    margin: 10px;
+    border:3px solid black;
 }
 
 .text2 {
@@ -67,7 +108,11 @@ header {
 
 .top2 {
     padding: 5px;
-    display: flex;
-    justify-content: flex-end;
+    width: 20%;
+    text-align: center;
+    float: right;
     background-color: violet;
+    border:3px solid black;
+    margin-top: -3px;
+    margin-right: -3px;
 }
