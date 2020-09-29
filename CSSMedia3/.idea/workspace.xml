@@ -21,8 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="81f2179f-2c0d-46a2-976c-bd31139800a6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../CSSMedia2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSSMedia2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSSMedia2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CSSMedia2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSSMedia2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CSSMedia2/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601364921243</updated>
-      <workItem from="1601364922308" duration="2082000" />
+      <workItem from="1601364922308" duration="3086000" />
     </task>
     <servers />
   </component>

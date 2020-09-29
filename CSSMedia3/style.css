@@ -8,6 +8,7 @@ body {
     grid-template-rows: 30% 30%;
 
 }
+
 /*------------Input boxes----------------*/
 input[type=text] {
     width: 30%;
@@ -24,14 +25,28 @@ input[type=text]:focus {
 
 }
 
-/*------------FnameLnameEmail---------------*/
+/*------------FnameLnameEmailButton---------------*/
 .fname {
 
 }
+
 .lname {
 
 }
+
 .email {
 
+}
+
+.button {
+    width: 100%;
+    margin: 5px;
+    border: 3px solid black;
+    color: black;
+    padding: 5px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
 /*-------------------------------------------*/
